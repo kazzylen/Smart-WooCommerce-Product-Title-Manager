@@ -1,4 +1,4 @@
-# Smart-WooCommerce-Product-Title-Manager
+# Smart Title Manager for WooCommerce
 Smart WooCommerce Product Title Manager Clean Product Grids. Better Mobile Layouts. Smarter WooCommerce Display Control.
 Smart WooCommerce Product Title Manager is a lightweight WooCommerce utility plugin designed to solve one of the most common problems faced by affiliate, dropshipping, and bulk-import stores: excessively long product titles breaking layouts and ruining product grid consistency.
 
@@ -97,5 +97,5 @@ Make WooCommerce product layouts look cleaner, more professional, and more respo
 
 Smart WooCommerce Product Title Manager helps WooCommerce stores maintain clean product grids while preserving flexibility, SEO, and compatibility.
 
-Get For Free - https://themes.kazzylen.com/product/smart-woocommerce-product-title-manager/
-Or - https://kazzylen.com/smart-woocommerce-product-title-manager
+Get For Free - https://themes.kazzylen.com/product/smart-title-manager-for-woo/
+Or - https://kazzylen.com/smart-title-manager-for-woo/
